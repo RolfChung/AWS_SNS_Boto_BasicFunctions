@@ -36,7 +36,7 @@ For example:</p>
 <li>Creating clients.</li> 
 <li>Creating topics.</li> 
 <li>Subscriptions.</li> 
-<li>Unsuscribe.</li> 
+<li>Unsubscribe.</li> 
 <li>Endpoints.</li> 
 <li>Publishing messages.</li>     
 </ul> 
