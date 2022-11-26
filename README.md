@@ -33,8 +33,8 @@ Functions defined here are added later to the helper package.
 For example:</p> 
 <ul> 
 <li>Setting up AWS for SNS.</li> 
-<li>Creating a client.</li> 
-<li>Creating a topic.</li> 
+<li>Creating clients.</li> 
+<li>Creating topics.</li> 
 <li>Subscriptions.</li> 
 <li>Unsuscribe.</li> 
 <li>Endpoints.</li> 
