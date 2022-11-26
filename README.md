@@ -1,5 +1,5 @@
 # Summary
-### Managing files stored on AWS S3 with Boto3
+### Setting up Simple Notification Services (SNS) with AWS using Boto 3. 
 
 <p>
 This project uses the Simple Notification Service (SNS) of AWS. Several basic functions like creating topics, subscriptions, publishing are explained. The functionality is extended with a newly created helper package by me. This is a work in progress. 
